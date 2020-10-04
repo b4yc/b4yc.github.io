@@ -2,33 +2,33 @@
 markdown: kramdown
 
 # URL of the Site
-url: ''
+url: 'bayleecheung.com'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: 
+baseurl: 'b4yc.github.io'
 
 # Title of the Site
 title: Hi, I'm Baylee Cheung
 # Description of the Site
 description: A Software + Biomedical Engineering Student
 # URL of Image of the Site
-site-image: /WhatATheme/assets/images/meta.jpg
+site-image: WhatATheme/assets/images/headshot.jpg
 # Keywords of the Site
 site-keywords: Baylee, Cheung, Software, Engineer, Biomedical
 # URL for the Image of custom Favicon
 favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+heroimage: https://i.ytimg.com/vi/-MKapbz0GIo/maxresdefault.jpg
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
-email: thedevslot@gmail.com
-facebook_username: thedevslot
-twitter_username: thedevslot
-instagram_username: thedevslot
+email: cbaylee123@gmail.com
+facebook_username: /
+twitter_username: /
+instagram_username: / 
 linkedin_username: thedevslot
-github_username:  thedevslot
-youtube_channel_id: UCk_93NXYP-U_AOB5GfWlOow
+github_username:  b4yc
+youtube_channel_id: 
 reddit_username: /
 behance_username: /
 dribbble_username: /
@@ -41,9 +41,9 @@ google-analytics: UA-163806439-1
 disqus-shortname: thedevslot
 
 # Name of the Author
-author-name: TheDevsLot
+author-name: Baylee Cheung
 # URL for the Image of the Author
-author-image: headshot.jpg
+author-image: WhatATheme/assets/images/headshot.jpg
 # 60 Words About the Author
 author-about: I am currently a Software Engineering Student also pursuing a minor in Biomedical Engineering.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
